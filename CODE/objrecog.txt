@@ -1,0 +1,5 @@
+100.00%: hotdog
+ 0.00%: cheeseburger
+ 0.00%: French loaf
+ 0.00%: pizza
+ 0.00%: bagel

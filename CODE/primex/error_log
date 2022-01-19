@@ -1,0 +1,4 @@
+[12-Mar-2018 06:30:07 Etc/GMT] PHP Notice:  Undefined index: fname in /home/globappq/public_html/cliq/primex/register.php on line 18
+[12-Mar-2018 06:30:07 Etc/GMT] PHP Notice:  Undefined index: company in /home/globappq/public_html/cliq/primex/register.php on line 19
+[12-Mar-2018 06:30:07 Etc/GMT] PHP Notice:  Undefined index: Email in /home/globappq/public_html/cliq/primex/register.php on line 20
+[12-Mar-2018 06:30:07 Etc/GMT] PHP Notice:  Undefined index: password in /home/globappq/public_html/cliq/primex/register.php on line 21

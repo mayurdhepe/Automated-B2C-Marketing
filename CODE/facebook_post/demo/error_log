@@ -1,0 +1,93 @@
+[26-Jan-2018 18:37:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookClientException' with message 'Duplicate status message' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:121
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+#4 /home/globappq/public_html/cliq/fa in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 121
+[31-Jan-2018 10:14:48 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) The specified scheduled publish time is invalid.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: pageid in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 7
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: message in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 8
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: hour in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 9
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: minutes in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 10
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: seconds in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 11
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: date in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 12
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: month in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 13
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined index: year in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 14
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Notice:  Undefined variable: accesstoken in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 33
+[31-Jan-2018 10:14:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '/feed/', Array, NULL, NULL, NULL)
+#3 /home/globappq/public_html/cliq/facebook_post/demo/page.php(33): Facebook\Facebook->post('/feed/', Array, NULL)
+#4 {main}
+  thrown in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php on line 209
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: pageid in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 7
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: message in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 8
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: hour in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 9
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: minutes in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 10
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: seconds in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 11
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: date in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 12
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: month in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 13
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined index: year in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 14
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Notice:  Undefined variable: accesstoken in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 33
+[31-Jan-2018 10:14:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '/feed/', Array, NULL, NULL, NULL)
+#3 /home/globappq/public_html/cliq/facebook_post/demo/page.php(33): Facebook\Facebook->post('/feed/', Array, NULL)
+#4 {main}
+  thrown in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php on line 209
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: pageid in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 7
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: message in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 8
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: hour in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 9
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: minutes in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 10
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: seconds in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 11
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: date in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 12
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: month in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 13
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined index: year in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 14
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Notice:  Undefined variable: accesstoken in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 33
+[31-Jan-2018 10:15:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '/feed/', Array, NULL, NULL, NULL)
+#3 /home/globappq/public_html/cliq/facebook_post/demo/page.php(33): Facebook\Facebook->post('/feed/', Array, NULL)
+#4 {main}
+  thrown in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php on line 209
+[31-Jan-2018 15:52:08 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) Param scheduled_publish_time must be a number' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+# in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[31-Jan-2018 15:56:10 Asia/Calcutta] PHP Fatal error:  Call to undefined function DateTime() in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 27
+[31-Jan-2018 15:59:00 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) The specified scheduled publish time is invalid.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[31-Jan-2018 16:02:52 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) The specified scheduled publish time is invalid.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[31-Jan-2018 10:36:30 Etc/GMT] PHP Notice:  Undefined variable: accesstoken in /home/globappq/public_html/cliq/facebook_post/demo/page.php on line 34
+[31-Jan-2018 10:36:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '101810047166454...', Array, NULL, NULL, NULL)
+#3 /home/globappq/public_html/cliq/facebook_post/demo/page.php(34): Facebook\Facebook->post('101810047166454...', Array, NULL)
+#4 {main}
+  thrown in /home/globappq/public_html/cliq/facebook_post/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php on line 209

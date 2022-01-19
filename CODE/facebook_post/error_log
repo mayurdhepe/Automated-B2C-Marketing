@@ -1,0 +1,249 @@
+[09-Feb-2018 08:33:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 235
+[09-Feb-2018 08:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 237
+[09-Feb-2018 08:36:23 Etc/GMT] PHP Notice:  Undefined variable: helper in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[09-Feb-2018 08:36:23 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[09-Feb-2018 08:37:43 Etc/GMT] PHP Notice:  Undefined variable: helper in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[09-Feb-2018 08:37:43 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[09-Feb-2018 08:37:46 Etc/GMT] PHP Notice:  Undefined variable: helper in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[09-Feb-2018 08:37:46 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[11-Feb-2018 14:11:53 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[11-Feb-2018 14:11:53 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137
+[13-Feb-2018 10:26:36 Etc/GMT] PHP Notice:  Undefined index: hashtags in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 41
+[13-Feb-2018 10:26:36 Etc/GMT] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 42
+[14-Feb-2018 04:43:30 Etc/GMT] PHP Notice:  Undefined index: hashtags in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 41
+[14-Feb-2018 04:43:30 Etc/GMT] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 42
+[14-Feb-2018 18:54:57 Etc/GMT] PHP Notice:  Undefined index: hashtags in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 41
+[14-Feb-2018 18:54:57 Etc/GMT] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/uploadall.php on line 42
+[18-Feb-2018 13:42:00 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:43:02 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:43:02 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:43:02 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:43:02 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:43:03 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:44:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:44:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:44:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:44:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 13:44:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 213
+[18-Feb-2018 19:16:34 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:16:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:16:38 Etc/GMT] PHP Notice:  Undefined variable: category in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[18-Feb-2018 19:22:04 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:22:08 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:22:08 Etc/GMT] PHP Notice:  Undefined variable: category in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[18-Feb-2018 19:38:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:38:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:38:28 Etc/GMT] PHP Notice:  Undefined variable: category in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 239
+[18-Feb-2018 19:42:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:42:27 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:47:40 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:47:49 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:50:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:50:13 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:56:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:56:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:56:18 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:56:18 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:56:18 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:56:18 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[18-Feb-2018 19:57:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:57:27 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[18-Feb-2018 19:57:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:57:27 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[18-Feb-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[19-Feb-2018 06:00:50 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:00:54 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 273
+[19-Feb-2018 06:00:55 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[19-Feb-2018 06:00:56 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 299
+[19-Feb-2018 06:00:56 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 317
+[19-Feb-2018 06:24:53 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:24:59 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:25:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:25:01 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:27:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:27:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:27:24 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:27:24 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:27:25 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:29:31 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:29:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:29:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:30:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:30:26 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:30:27 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 06:30:27 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 06:30:27 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 06:30:27 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 09:05:14 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 09:05:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 09:05:17 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 09:07:36 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 09:07:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 09:07:39 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:08 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 10:26:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:12 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 10:26:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 10:26:39 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined index: summary in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 274
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 10:26:40 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 10:26:41 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 11:25:40 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:25:41 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:25:42 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:28:09 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:28:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:28:12 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:28:12 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 11:31:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:32:00 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:32:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:32:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 11:32:00 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:34:31 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:34:33 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:34:33 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:36:31 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:36:34 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:36:34 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:38:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:38:30 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:38:30 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:42:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:42:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:42:12 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[19-Feb-2018 11:42:12 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 318
+[19-Feb-2018 11:43:31 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:43:33 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[19-Feb-2018 11:43:34 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[20-Feb-2018 11:18:29 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[20-Feb-2018 11:18:33 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[20-Feb-2018 11:18:33 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 300
+[24-Feb-2018 17:29:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:29:29 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:29:30 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 303
+[24-Feb-2018 17:29:30 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 322
+[24-Feb-2018 17:32:32 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:32:34 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:32:34 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 303
+[24-Feb-2018 17:32:35 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 322
+[24-Feb-2018 17:32:50 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:32:52 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:32:52 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 303
+[24-Feb-2018 17:32:53 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 322
+[24-Feb-2018 17:32:53 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 303
+[24-Feb-2018 17:34:14 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:34:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:34:16 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 304
+[24-Feb-2018 17:34:16 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 324
+[24-Feb-2018 17:36:07 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:36:09 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:36:09 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 304
+[24-Feb-2018 17:36:09 Etc/GMT] PHP Notice:  Undefined variable: description in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 324
+[24-Feb-2018 17:37:22 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:37:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:39:01 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:39:03 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:40:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:40:14 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:51:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[24-Feb-2018 17:51:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 07:21:41 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 07:21:43 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:38:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:39:00 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:39:13 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:39:15 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:39:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 08:39:59 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 10:52:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[25-Feb-2018 10:52:11 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[26-Feb-2018 10:24:43 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 102
+[26-Feb-2018 10:24:43 Etc/GMT] PHP Warning:  file_put_contents(/home/globappq/public_html/cliq/trainingimages/): failed to open stream: Is a directory in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 102
+[26-Feb-2018 15:54:43 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[26-Feb-2018 15:54:43 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137
+[26-Feb-2018 15:54:46 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[26-Feb-2018 15:54:46 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137
+[26-Feb-2018 11:16:35 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[26-Feb-2018 11:16:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:18:42 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:18:45 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:19:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:19:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:20:21 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/globappq/public_html/cliq/facebook_post/justlike.php on line 201
+[14-Mar-2018 10:35:17 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 102
+[14-Mar-2018 10:35:17 Etc/GMT] PHP Warning:  file_put_contents(/home/globappq/public_html/cliq/trainingimages/): failed to open stream: Is a directory in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 102
+[14-Mar-2018 16:05:17 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[14-Mar-2018 16:05:17 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137
+[14-Mar-2018 16:05:26 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[14-Mar-2018 16:05:30 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[14-Mar-2018 16:05:30 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137
+[14-Mar-2018 16:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[14-Mar-2018 17:32:38 Asia/Kolkata] PHP Notice:  Undefined variable: fbpostid in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 111
+[14-Mar-2018 17:32:38 Asia/Kolkata] PHP Notice:  Undefined index: key in /home/globappq/public_html/cliq/facebook_post/valentdisp.php on line 137

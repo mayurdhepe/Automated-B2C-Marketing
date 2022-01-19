@@ -1,0 +1,236 @@
+stdClass Object
+(
+    [created_at] => Mon Feb 19 11:23:22 +0000 2018
+    [id] => 965547351145361415
+    [id_str] => 965547351145361415
+    [text] => The all new One Plus 5T at Rs 33K... Hurry Up!!!! https://t.co/8EfiR6K0Il
+    [truncated] => 
+    [entities] => stdClass Object
+        (
+            [hashtags] => Array
+                (
+                )
+
+            [symbols] => Array
+                (
+                )
+
+            [user_mentions] => Array
+                (
+                )
+
+            [urls] => Array
+                (
+                )
+
+            [media] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [id] => 965547348616101888
+                            [id_str] => 965547348616101888
+                            [indices] => Array
+                                (
+                                    [0] => 50
+                                    [1] => 73
+                                )
+
+                            [media_url] => http://pbs.twimg.com/media/DWZQMqgVQAAUqeF.jpg
+                            [media_url_https] => https://pbs.twimg.com/media/DWZQMqgVQAAUqeF.jpg
+                            [url] => https://t.co/8EfiR6K0Il
+                            [display_url] => pic.twitter.com/8EfiR6K0Il
+                            [expanded_url] => https://twitter.com/B2Cpromotions/status/965547351145361415/photo/1
+                            [type] => photo
+                            [sizes] => stdClass Object
+                                (
+                                    [thumb] => stdClass Object
+                                        (
+                                            [w] => 150
+                                            [h] => 150
+                                            [resize] => crop
+                                        )
+
+                                    [medium] => stdClass Object
+                                        (
+                                            [w] => 840
+                                            [h] => 473
+                                            [resize] => fit
+                                        )
+
+                                    [small] => stdClass Object
+                                        (
+                                            [w] => 680
+                                            [h] => 383
+                                            [resize] => fit
+                                        )
+
+                                    [large] => stdClass Object
+                                        (
+                                            [w] => 840
+                                            [h] => 473
+                                            [resize] => fit
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [extended_entities] => stdClass Object
+        (
+            [media] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [id] => 965547348616101888
+                            [id_str] => 965547348616101888
+                            [indices] => Array
+                                (
+                                    [0] => 50
+                                    [1] => 73
+                                )
+
+                            [media_url] => http://pbs.twimg.com/media/DWZQMqgVQAAUqeF.jpg
+                            [media_url_https] => https://pbs.twimg.com/media/DWZQMqgVQAAUqeF.jpg
+                            [url] => https://t.co/8EfiR6K0Il
+                            [display_url] => pic.twitter.com/8EfiR6K0Il
+                            [expanded_url] => https://twitter.com/B2Cpromotions/status/965547351145361415/photo/1
+                            [type] => photo
+                            [sizes] => stdClass Object
+                                (
+                                    [thumb] => stdClass Object
+                                        (
+                                            [w] => 150
+                                            [h] => 150
+                                            [resize] => crop
+                                        )
+
+                                    [medium] => stdClass Object
+                                        (
+                                            [w] => 840
+                                            [h] => 473
+                                            [resize] => fit
+                                        )
+
+                                    [small] => stdClass Object
+                                        (
+                                            [w] => 680
+                                            [h] => 383
+                                            [resize] => fit
+                                        )
+
+                                    [large] => stdClass Object
+                                        (
+                                            [w] => 840
+                                            [h] => 473
+                                            [resize] => fit
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [source] => <a href="http://cliq.globalsuperelite.com/thirdTask-master/home.php" rel="nofollow">apimyapp</a>
+    [in_reply_to_status_id] => 
+    [in_reply_to_status_id_str] => 
+    [in_reply_to_user_id] => 
+    [in_reply_to_user_id_str] => 
+    [in_reply_to_screen_name] => 
+    [user] => stdClass Object
+        (
+            [id] => 878515851401371648
+            [id_str] => 878515851401371648
+            [name] => B2C Promotions
+            [screen_name] => B2Cpromotions
+            [location] => Pune, India
+            [description] => Its an account to promote different campaigns of our clients
+            [url] => https://t.co/ufrn6eRFqj
+            [entities] => stdClass Object
+                (
+                    [url] => stdClass Object
+                        (
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => https://t.co/ufrn6eRFqj
+                                            [expanded_url] => http://cliq.globalsuperelite.com/primex/index.html
+                                            [display_url] => cliq.globalsuperelite.com/primex/index.h…
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 23
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [description] => stdClass Object
+                        (
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [protected] => 
+            [followers_count] => 3
+            [friends_count] => 3
+            [listed_count] => 0
+            [created_at] => Sat Jun 24 07:31:15 +0000 2017
+            [favourites_count] => 9
+            [utc_offset] => -25200
+            [time_zone] => Pacific Time (US & Canada)
+            [geo_enabled] => 
+            [verified] => 
+            [statuses_count] => 11
+            [lang] => en
+            [contributors_enabled] => 
+            [is_translator] => 
+            [is_translation_enabled] => 
+            [profile_background_color] => 000000
+            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+            [profile_background_tile] => 
+            [profile_image_url] => http://pbs.twimg.com/profile_images/965160277481111552/uMvvENfX_normal.jpg
+            [profile_image_url_https] => https://pbs.twimg.com/profile_images/965160277481111552/uMvvENfX_normal.jpg
+            [profile_banner_url] => https://pbs.twimg.com/profile_banners/878515851401371648/1518947137
+            [profile_link_color] => 1B95E0
+            [profile_sidebar_border_color] => 000000
+            [profile_sidebar_fill_color] => 000000
+            [profile_text_color] => 000000
+            [profile_use_background_image] => 
+            [has_extended_profile] => 1
+            [default_profile] => 
+            [default_profile_image] => 
+            [following] => 
+            [follow_request_sent] => 
+            [notifications] => 
+            [translator_type] => none
+        )
+
+    [geo] => 
+    [coordinates] => 
+    [place] => 
+    [contributors] => 
+    [is_quote_status] => 
+    [retweet_count] => 0
+    [favorite_count] => 2
+    [favorited] => 1
+    [retweeted] => 
+    [possibly_sensitive] => 
+    [possibly_sensitive_appealable] => 
+    [lang] => en
+)
